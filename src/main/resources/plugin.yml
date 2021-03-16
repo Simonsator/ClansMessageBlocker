@@ -2,6 +2,7 @@ name: Clans-ChatInspector
 version: ${project.version}
 author: Simonsator
 depends: [Clans]
+depend: [Clans]
 main: de.simonsator.partyandfriends.clans.chatinspector.ClansChatInspector
 description: An add-on for clans to block some words in the private chat
 api-version: 1.13
